@@ -1,0 +1,7 @@
+# Credenciales del dispositivo: nunca se suben
+firmware/**/credentials.h
+*.pem
+*.pem.crt
+*.pem.key
+*.key
+__pycache__/
